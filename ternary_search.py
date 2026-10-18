@@ -23,3 +23,4 @@ def ternary_search(input_list, target):
             low = mid1 + 1
             high = mid2 - 1
     return None
+#
